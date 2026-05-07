@@ -1,6 +1,4 @@
-Use this `README.md`:
 
-````md
 # Java Music Playlist
 
 This project is a console-based music playlist application developed using Java. It was created to demonstrate object-oriented programming concepts and the implementation of a custom doubly linked list data structure.
